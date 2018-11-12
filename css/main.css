@@ -16,9 +16,28 @@ html {
 h2 {
   font-size: 4rem;
   font-weight: 700;
+  background-color: rgba(0, 0, 0, .5);
+  color: #fff;
 }
 
 p {
   font-size: 2rem;
   font-style: italic;
+}
+
+img {
+  padding: 0;
+}
+
+.banner {
+  max-height: 500px;
+  margin: 0;
+}
+
+.content {
+  max-width: 50em;
+  position: relative;
+  bottom: 27rem;
+  text-align: left;
+  padding: 1rem;
 }
