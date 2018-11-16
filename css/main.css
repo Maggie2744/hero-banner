@@ -14,6 +14,8 @@ img {
 }
 
 .img-flex {
+  display:
+  width:
   margin: 0;
   padding: 0;
 }
@@ -45,4 +47,8 @@ section {
   bottom: 27rem;
   text-align: left;
   padding: 1rem;
+}
+
+body {
+
 }
