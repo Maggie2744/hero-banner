@@ -39,7 +39,7 @@ img {
   margin: 0;
 }
 
-.content {
+section {
   max-width: 50em;
   position: relative;
   bottom: 27rem;
