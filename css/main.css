@@ -8,14 +8,14 @@ html {
   box-sizing: inherit;
 }
 
-.img-flex {
-  display: block;
-  width: 100%;
+img {
+  display: inline-block;
+  max-height: 500px;
 }
 
-div {
-  position: relative;
-
+.img-flex {
+  margin: 0;
+  padding: 0;
 }
 
 h2 {
