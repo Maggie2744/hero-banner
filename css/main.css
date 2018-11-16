@@ -13,6 +13,11 @@ html {
   width: 100%;
 }
 
+div {
+  position: relative;
+
+}
+
 h2 {
   font-size: 4rem;
   font-weight: 700;
