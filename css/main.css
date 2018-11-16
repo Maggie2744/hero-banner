@@ -11,11 +11,13 @@ html {
 img {
   display: inline-block;
   max-height: 500px;
+  margin: auto;
 }
 
 .img-flex {
-  display:
-  width:
+  position: absolute;
+  display: inline-flex;
+  width: 100%;
   margin: 0;
   padding: 0;
 }
@@ -37,8 +39,6 @@ img {
 }
 
 .banner {
-  max-height: 500px;
-  margin: 0;
 }
 
 section {
