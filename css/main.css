@@ -29,6 +29,7 @@ body {
   max-width: 50em;
   left: 50%;
   transform: translateX(-50%);
+  padding: 1em;
 }
 
 .banner-content h2,
