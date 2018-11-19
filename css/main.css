@@ -27,9 +27,21 @@ body {
   position: absolute;
   bottom: 1em;
   width: 100%;
+  max-width: 50em;
 }
 
 .banner-content h1,
 .banner-content p {
   margin: 0;
+}
+
+h1 {
+  background-color: rgba(0, 0, 0, .5);
+  color: #fff;
+  max-width: 50em;
+}
+
+.content {
+  text-align: left;
+  max-width: 50em;
 }
