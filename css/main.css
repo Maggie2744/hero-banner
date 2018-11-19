@@ -21,7 +21,7 @@ body {
 
 .img-flex {
   width: 100%;
-  display: auto;
+  display: block;
 }
 
 .banner-content {
