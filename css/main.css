@@ -30,6 +30,7 @@ body {
   bottom: 1em;
   width: 100%;
   max-width: 50em;
+  padding-left: 2px;
 }
 
 .banner-content h2,
