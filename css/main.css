@@ -13,8 +13,6 @@ body {
 
 .banner {
   position: relative;
-  text-align: center;
-  font-size: 1.5rem;
   max-height: 500px;
   overflow: hidden;
 }
@@ -22,7 +20,6 @@ body {
 .img-flex {
   width: 100%;
   display: block;
-  transform: translate(0, 0);
 }
 
 .banner-content {
@@ -31,11 +28,13 @@ body {
   width: 100%;
   max-width: 50em;
   padding-left: 2px;
+  left: 50%;
+  transform: translateX(-50%)
 }
 
 .banner-content h2,
 .banner-content p {
-  margin: 0;
+  margin: 0 auto;
 }
 
 h2 {
@@ -44,17 +43,12 @@ h2 {
   background-color: rgba(0, 0, 0, .5);
   color: #fff;
   font-size: 4rem;
+  text-align: left;
 }
 
 p {
   font-size: 2rem;
-  max-width: 50rem;
   font-style: italic;
   padding-top: 1rem;
-}
-
-.content {
   text-align: left;
-  margin-left: 1.3rem;
-  margin-right: 1.3rem;
 }
