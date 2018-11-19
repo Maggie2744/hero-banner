@@ -1,52 +1,24 @@
 html {
   box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
-  line-height: 1.5;
+  font: normal 100%/1.5 'Open Sans', sans-serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-section {
-  max-width: 50em;
-  position: relative;
-  left: 25px;
-  top: 40px;
-  text-align: left;
-  padding: 1rem;
-  left: auto;
-}
-
 body {
   margin: 0;
-  max-width: 50em;
-}
-
-img {
-  padding: 0;
-  position: absolute;
-  width: 50em;
-  overflow: hidden;
-}
-
-h2 {
-  font-size: 4rem;
-  font-weight: 700;
-  background-color: rgba(0, 0, 0, .5);
-  color: #fff;
-}
-
-p {
-  font-size: 2rem;
-  font-style: italic;
 }
 
 .banner {
-  width: 100%;
-  max-height: 500px;
+  position: relative;
 }
 
-.content {
-  max-width: 50em;
+.banner img {
+  width: 100%;
+}
+
+.banner-content {
+  position: absolute;
 }
