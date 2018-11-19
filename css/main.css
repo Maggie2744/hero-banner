@@ -38,10 +38,17 @@ body {
 h2 {
   background-color: rgba(0, 0, 0, .5);
   color: #fff;
-  max-width: 50em;
+  max-width: 50rem;
+  font-size: 4rem;
+}
+
+p {
+  font-size: 2rem;
+  max-width: 50rem;
 }
 
 .content {
   text-align: left;
-  max-width: 50em;
+  margin-left: 1rem;
+  margin-right: 1rem;
 }
