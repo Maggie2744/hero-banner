@@ -30,12 +30,12 @@ body {
   max-width: 50em;
 }
 
-.banner-content h1,
+.banner-content h2,
 .banner-content p {
   margin: 0;
 }
 
-h1 {
+h2 {
   background-color: rgba(0, 0, 0, .5);
   color: #fff;
   max-width: 50em;
