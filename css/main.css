@@ -22,19 +22,20 @@ p {
 
 img {
   padding: 0;
+  position: absolute;
 }
 
 .banner {
+  width: 100%;
 }
 
 section {
   max-width: 50em;
   position: relative;
-  bottom: 27rem;
   text-align: left;
   padding: 1rem;
 }
 
 body {
-
+  margin: 0;
 }
