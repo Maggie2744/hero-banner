@@ -48,6 +48,7 @@ p {
   font-size: 2rem;
   max-width: 50rem;
   font-style: italic;
+  padding-top: 1rem;
 }
 
 .content {
