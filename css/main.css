@@ -13,6 +13,8 @@ body {
 
 .banner {
   position: relative;
+  text-align: center;
+  font-size: 1.5rem;
 }
 
 .banner img {
@@ -21,4 +23,11 @@ body {
 
 .banner-content {
   position: absolute;
+  bottom: 1em;
+  width: 100%;
+}
+
+.banner-content h1,
+.banner-content p {
+  margin: 0;
 }
