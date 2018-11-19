@@ -48,5 +48,6 @@ h2 {
 p {
   font-size: 2rem;
   font-style: italic;
+  padding-top: 1rem;
   text-align: left;
 }
